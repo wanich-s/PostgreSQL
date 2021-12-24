@@ -1,0 +1,7 @@
+SQL Shell(psql)
+cmd: \l List of database
+cmd: \q Quit
+command prompt: psql -U postgress -h localhost
+
+Create database
+cmd: CREATE DATABASE <database name>;

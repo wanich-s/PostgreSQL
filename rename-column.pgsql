@@ -1,0 +1,1 @@
+ALTER TABLE persons RENAME COLUMN student_id TO person_id;
